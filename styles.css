@@ -26,6 +26,7 @@ body h1{
 
 }
 
+/* navigation */
 .nav7 {
     background-color:var(--primary-color);
     color:white;
@@ -79,4 +80,9 @@ body h1{
     /* color: #Ecc19c; */
     /* color:#1e847f; */
     color: #45ada8;
+}
+
+.header7 {
+    padding: 2rem;
+    padding-top: 6rem;
 }
