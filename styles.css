@@ -93,3 +93,9 @@ body h1{
     border-radius: 50%;
     display: block;
 }
+
+.header7 .hd {
+    color: var(--back-color);
+    text-align: center; 
+
+}
