@@ -18,3 +18,10 @@
 body {
     background-image: url("https://www.toptal.com/designers/subtlepatterns/patterns/checkerboard-cross.png");
 }
+
+body h1{
+    font-family: 'Castoro', serif;
+    font-size: 52px;
+    color: var(--back-color);
+
+}
