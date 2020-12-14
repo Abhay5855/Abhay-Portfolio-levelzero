@@ -67,3 +67,7 @@ body h1{
 .link7:hover{
     color: black;
 }
+
+.projects7 {
+    color: var(--h2-color);
+}
