@@ -169,3 +169,9 @@ body h1{
 .primary-link:hover{
     background-color: tomato;
 }
+
+.header7 .hd {
+    color: var(--back-color);
+    text-align: center; 
+
+}
