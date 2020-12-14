@@ -86,3 +86,10 @@ body h1{
     padding: 2rem;
     padding-top: 6rem;
 }
+
+.header7 .img7 {
+    width: 280px;
+    margin: auto;
+    border-radius: 50%;
+    display: block;
+}
