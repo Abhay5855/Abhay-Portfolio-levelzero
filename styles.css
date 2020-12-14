@@ -114,3 +114,11 @@ body h1{
     font-weight: bold;
     font-size: large; 
 }
+
+.footer .link {
+    color: white;
+}
+
+.footer ul {
+    padding-inline-start: 0px;
+}
