@@ -46,3 +46,24 @@ body h1{
     padding: 1rem;
     
 }
+
+.list7-item-inline {
+    display:inline;
+    padding:0rem , 0.5rem;
+    
+}
+
+.link7 {
+    text-decoration: none;
+    box-sizing: border-box;
+    padding: 0.5rem 1rem;
+    margin-top: 5rem;
+    margin-bottom: 1rem;
+    font-weight: bold;
+    color: white;
+
+}
+
+.link7:hover{
+    color: black;
+}
