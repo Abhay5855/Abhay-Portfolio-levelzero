@@ -25,3 +25,10 @@ body h1{
     color: var(--back-color);
 
 }
+
+.nav7 {
+    background-color:var(--primary-color);
+    color:white;
+    padding:1rem;
+    border-bottom-left-radius: 1rem;
+}
