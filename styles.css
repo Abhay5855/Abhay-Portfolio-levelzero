@@ -130,3 +130,27 @@ body h1{
     border-right: 1px solid #bbb; 
     
 }
+
+.link{
+    box-sizing: border-box;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    margin-top: 5rem;
+    margin-bottom: 1rem;
+}
+
+.primary-link {
+    background-color: var(--primary-color);
+    border-radius: 0.5rem;
+    color: white;
+    
+    
+
+}
+
+.secondary-link {
+    color: var(--sec-color);
+    border-radius: 0.5rem;
+    border: 1px solid var(--primary-color);
+    
+}
