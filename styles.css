@@ -1,1 +1,16 @@
-!
+@import url('https://fonts.googleapis.com/css2?family=Castoro&display=swap');
+
+
+@import url('https://fonts.googleapis.com/css2?family=Teko&display=swap');
+
+
+:root {
+    --primary-color:#60A5FA;
+    --dark-gray: #9CA3AF;
+    --off-white:#F3F4F6;
+    --back-color:DodgerBlue;
+    --tw-text-opacity: 1;
+    --he-color:#6B7280;
+    --h2-color:#4C1D95;
+    --sec-color:#F87171;
+}
