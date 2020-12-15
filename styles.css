@@ -79,7 +79,7 @@ body h1{
     font-size: large;
     /* color: #Ecc19c; */
     /* color:#1e847f; */
-    color: #45ada8;
+    color: #4B5563;
 }
 
 
@@ -90,7 +90,7 @@ body h1{
 }
 
 .header7 .img7 {
-    width: 280px;
+    width: 190px;
     margin: auto;
     border-radius: 50%;
     display: block;
@@ -108,6 +108,7 @@ body h1{
     text-align: center;
     color: white;
     border-bottom-right-radius: 1rem;
+    margin:2rem
 }
 
 .footer .footer-header {
@@ -137,6 +138,7 @@ body h1{
     padding: 0.5rem 1rem;
     margin-top: 5rem;
     margin-bottom: 1rem;
+    font-size: larger;
 }
 
 .primary-link {
