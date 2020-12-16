@@ -165,6 +165,7 @@ body h1{
 .list-item-inline {
     display:inline;
     padding:0rem , 0.5rem;
+    margin:1rem;
     
 }
 
@@ -182,5 +183,6 @@ body h1{
 .section-ow {
 
     background-color: #EFF6FF;
+    margin:0.5rem;
 
 }
